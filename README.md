@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freakyfishy-aeong, an amateur programmer, applied artificial intelligence diploma student 👩‍💻
+- 👋 Hi! I’m @freakyfishy-aeong, an amateur programmer, applied artificial intelligence diploma student 👩‍💻
 - 👀 I’m interested in coding and other hobbies handicrafts (like crochet, sewing, embroidery etc), speedcubing and kpop (specifically girl groups)
 - 🌱 I’m currently learning python and web development basics. Eventually other lower-level languages like C, Assembly just to understand how computers work better ><
 - 💞️ I’m looking to potentially collaborate on projects related to speedcubing or my other side hobbies!
