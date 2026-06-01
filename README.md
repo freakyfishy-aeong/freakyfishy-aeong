@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @freakyfishy-aeong, an amateur programmer, applied artificial intelligence diploma student 
+- 👋 Hi, I’m @freakyfishy-aeong, a competent programmer, a fresh applied artificial intelligence diploma graduate
 - 👩‍💻 So far, I have learned to develop
   1. web applications using HTML, CSS, JS, SQL;
   2. mobile applications using flutter(dart, firestore, authentication);
-  3. and deploy a website using AWS services
-  4. Machine learning model using python
+  3. deploy a website using AWS services
+  4. train a machine learning model using python libraries
   6. ... and more to come!
-- 👀 I’m interested in coding and other hobbies handicrafts (like crochet, sewing, embroidery etc), speedcubing and kpop (specifically girl groups)
-- 🌱 I’m currently learning python and web development basics. I have an interest to eventually explore other lower-level languages like C, Assembly just to understand how computers work better ><
+- 👀 I enjoy coding and various handicraft hobbies (like crochet, sewing, embroidery etc), speedcubing and listening to music
+- 🌱 I’m familiar with python and basic web and mobile app development. 
 - 💞️ I’m looking to potentially collaborate on projects related to speedcubing or my other side hobbies!
 - 📫 How to reach me -- discord @aeong061422
 
